@@ -1,1 +1,1 @@
-This is week 7 assignment repo
+This is week 7 assignment repository
